@@ -1,2 +1,4 @@
-# PixelWrench-releases
-Update packages and release binaries for PixelWrench, supporting both automated checks and drop-in .pwxpatch files
+# PixelWrench
+Official downloads and updates for PixelWrench. 
+
+If you used the installer, updates are handled automatically or via drag and drop `.pwxpatch` files.
