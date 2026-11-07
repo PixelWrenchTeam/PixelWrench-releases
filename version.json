@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-  "version": "2.2.5",
-  "patchUrl": "https://github.com/PixelWrenchTeam/PixelWrench-releases/releases/download/v2.2.5/PixelWrench-v2.2.5.pwxpatch"
-=======
   "version": "2.3.0",
   "patchUrl": "https://github.com/PixelWrenchTeam/PixelWrench-releases/releases/download/v2.3.0/PixelWrench-v2.3.0.pwxpatch"
->>>>>>> a0a825c (Updated to v2.3.0)
 }
